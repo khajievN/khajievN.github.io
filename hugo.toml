@@ -34,7 +34,7 @@ buildExpired = false
   [params.homeInfoParams]
     Title = "Nizomjon Khajiev"
     Content = """
-PhD Researcher at [Monash University](https://www.monash.edu/) · [ACTION Lab](https://www.monash.edu/it/hcc/action-lab)
+PhD Researcher at [Monash University](https://www.monash.edu/), Melbourne
 
 Building **Epsilon** — a privacy-preserving research infrastructure combining Trusted Execution Environments, Zero-Knowledge Proofs, and AI-assisted data governance.
 
@@ -45,11 +45,8 @@ Previously: Blockchain engineer in Seoul — ZK-rollups, smart contracts, and de
     name = "github"
     url = "https://github.com/khajievN"
   [[params.socialIcons]]
-    name = "email"
-    url = "mailto:nizomjon.khajiev@monash.edu"
-  [[params.socialIcons]]
     name = "linkedin"
-    url = "https://linkedin.com/in/khajievn"
+    url = "https://www.linkedin.com/in/nizomjon-hajiev/"
 
   [params.cover]
     hidden = false

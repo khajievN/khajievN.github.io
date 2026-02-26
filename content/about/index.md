@@ -8,7 +8,7 @@ ShowToc: false
 
 ## Who I Am
 
-I'm a PhD researcher at [Monash University](https://www.monash.edu/)'s [ACTION Lab](https://www.monash.edu/it/hcc/action-lab), supervised by [Delvin Varghese](https://www.monash.edu/it/hcc/action-lab) and [Patrick Olivier](https://research.monash.edu/en/persons/patrick-olivier). My research sits at the intersection of **privacy engineering**, **trusted computing**, and **human-computer interaction**.
+I'm a PhD researcher at [Monash University](https://www.monash.edu/), Melbourne. My research sits at the intersection of **privacy engineering**, **trusted computing**, and **human-computer interaction**.
 
 Before academia, I spent 5+ years as a software engineer in Seoul, South Korea, building blockchain infrastructure, ZK-rollup systems, and decentralized applications.
 
@@ -28,7 +28,7 @@ The core idea: instead of trusting institutions to handle your data correctly, w
 ## Background
 
 - **PhD** in Human-Centered Computing — Monash University, Melbourne (2024–present)
-- **MSc** in Information Technology — Korea National University of Transportation (2016–2018, GPA 4.4/4.5)
+- **MSc** in Information Technology — Korea National University of Transportation (2016–2018)
 - **BSc** in Information Security — Tashkent University of Information Technology (2012–2016)
 
 ## Languages
@@ -40,6 +40,5 @@ The core idea: instead of trusting institutions to handle your data correctly, w
 
 ## Contact
 
-- **Email:** nizomjon.khajiev@monash.edu
 - **GitHub:** [khajievN](https://github.com/khajievN)
 - **Location:** Melbourne, Australia
