@@ -14,6 +14,8 @@ ShowToc: true
 - Building Epsilon: privacy-preserving research infrastructure (TEE + ZKP + AI governance)
 - Developed Python SDK for sandboxed script execution over research data
 - Integrated AWS Nitro Enclaves for secure computation
+- Built multi-agent AI policy checker using CrewAI + GPT-4 for automated data governance
+- Fine-tuned local LLMs (Ollama, HuggingFace) and built RAG pipelines with vector databases
 - Teaching Assistant for undergraduate courses
 
 ---
@@ -77,6 +79,8 @@ Seoul, South Korea · *Nov 2018 – May 2022*
 **Languages:** Python, Java, JavaScript, Solidity, Kotlin
 
 **Frameworks:** FastAPI, Spring Boot, Express.js, React.js, React Native, CrewAI, Android Jetpack
+
+**AI/ML:** Ollama, HuggingFace, Fine-tuning (LoRA), RAG (Vector DB), Prompt Engineering, CrewAI Multi-Agent Systems
 
 **Blockchain:** Solidity, Hardhat, Truffle, Web3.js, OpenZeppelin, Hyperledger Fabric, Taiko
 

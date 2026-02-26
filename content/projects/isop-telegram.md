@@ -2,13 +2,17 @@
 title: "ISOP — Telegram Mini App & Bot for Digital Gifting"
 date: 2024-06-01
 tags: ["Telegram", "React", "NestJS", "React Native", "TypeScript"]
-summary: "Full-stack Telegram Mini App and bot for browsing, purchasing, and sending digital gifts with AI-powered recommendations."
+summary: "Personal project — full-stack Telegram Mini App and bot for browsing, purchasing, and sending digital gifts with AI-powered recommendations."
 weight: 3
 ---
+
+**Personal Project**
 
 ## Overview
 
 ISOP is a Telegram Mini App that enables users to browse, purchase, and send digital gifts to friends and contacts. Features AI-powered gift recommendations, seamless payment integration, and social sharing — all inside Telegram.
+
+**Landing Page:** [landing.isop24.com](https://landing.isop24.com/)
 
 ## Key Contributions
 
