@@ -80,7 +80,9 @@ Seoul, South Korea · *Nov 2018 – May 2022*
 
 **Frameworks:** FastAPI, Spring Boot, Express.js, React.js, React Native, CrewAI, Android Jetpack
 
-**AI/ML:** Ollama, HuggingFace, Fine-tuning (LoRA), RAG (Vector DB), Prompt Engineering, CrewAI Multi-Agent Systems
+**AI/ML:** Ollama, HuggingFace, Fine-tuning (LoRA), RAG (Vector DB), Prompt Engineering, CrewAI Multi-Agent Systems, MCP Servers
+
+**AI Tools:** Claude Code (Skills, Agents, MCP), Cursor, GitHub Copilot
 
 **Blockchain:** Solidity, Hardhat, Truffle, Web3.js, OpenZeppelin, Hyperledger Fabric, Taiko
 
