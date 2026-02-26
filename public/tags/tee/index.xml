@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TEE on Nizomjon Khajiev</title>
+    <link>http://localhost:1313/tags/tee/</link>
+    <description>Recent content in TEE on Nizomjon Khajiev</description>
+    <generator>Hugo -- 0.157.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tee/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Epsilon — Privacy-Preserving Research Infrastructure</title>
+      <link>http://localhost:1313/projects/epsilon/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/epsilon/</guid>
+      <description>A zero-trust platform combining TEE execution, ZKP verification, AI policy checking, and visual schema mapping for sensitive research data.</description>
+    </item>
+    <item>
+      <title>Building a Privacy-Preserving Research Platform — Why I Started This PhD</title>
+      <link>http://localhost:1313/blog/hello-world/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/hello-world/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Coming soon — first blog post about the motivation behind Epsilon and the journey from blockchain to privacy engineering.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
