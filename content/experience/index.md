@@ -21,12 +21,13 @@ ShowToc: true
 ## Industry
 
 ### Software Engineer — Gesia
-**Blockchain Infrastructure** · Seoul, South Korea · *Sep 2023 – Jul 2024*
+**Blockchain Infrastructure & Mobile** · Seoul, South Korea · *Sep 2023 – Jul 2024*
 
 - Bootstrapped a full Taiko L2 ZK-Rollup chain from scratch
 - Integrated Intel SGX for secure L2 block verification via Raiko
 - Built smart contracts, DEX, and ZK Account Abstraction wallets
 - Designed backend stack: Express.js, PostgreSQL, event indexers
+- Built React Native mobile apps: [Carbon Monster](https://play.google.com/store/apps/details?id=com.carbonmonster) and [Gesia Wallet](https://play.google.com/store/apps/details?id=com.gesiawallet)
 
 ### Blockchain Developer — PSJ Global
 Seoul, South Korea · *Jan 2023 – Jul 2023*
@@ -75,7 +76,7 @@ Seoul, South Korea · *Nov 2018 – May 2022*
 
 **Languages:** Python, Java, JavaScript, Solidity, Kotlin
 
-**Frameworks:** FastAPI, Spring Boot, Express.js, React.js, CrewAI, Android Jetpack
+**Frameworks:** FastAPI, Spring Boot, Express.js, React.js, React Native, CrewAI, Android Jetpack
 
 **Blockchain:** Solidity, Hardhat, Truffle, Web3.js, OpenZeppelin, Hyperledger Fabric, Taiko
 

@@ -1,14 +1,14 @@
 ---
-title: "Gesia — ZK-Rollup Blockchain Infrastructure"
+title: "Gesia — ZK-Rollup Blockchain Infrastructure & Mobile Apps"
 date: 2023-09-01
-tags: ["Blockchain", "ZK-Rollup", "SGX", "Solidity", "Taiko"]
-summary: "Custom L2 blockchain with ZK-rollup architecture using Taiko stack and Intel SGX for secure block verification."
+tags: ["Blockchain", "ZK-Rollup", "SGX", "Solidity", "Taiko", "React Native"]
+summary: "Custom L2 blockchain with ZK-rollup architecture, Intel SGX block verification, and React Native mobile apps (Carbon Monster, Gesia Wallet)."
 weight: 2
 ---
 
 ## Overview
 
-Built next-generation blockchain infrastructure at Gesia, including a custom L2 chain using the Taiko ZK-Rollup stack with Intel SGX for secure block proofs.
+Built next-generation blockchain infrastructure at Gesia, including a custom L2 chain using the Taiko ZK-Rollup stack with Intel SGX for secure block proofs, plus two production React Native mobile applications.
 
 ## Key Contributions
 
@@ -19,6 +19,11 @@ Built next-generation blockchain infrastructure at Gesia, including a custom L2 
 - Implemented ZK-based proof generation and verification pipeline
 - Built ZK Account Abstraction wallets for privacy and gas efficiency
 
+## Mobile Apps (React Native)
+
+- **[Carbon Monster](https://play.google.com/store/apps/details?id=com.carbonmonster)** — Carbon footprint tracking and offset marketplace
+- **[Gesia Wallet](https://play.google.com/store/apps/details?id=com.gesiawallet)** — Crypto wallet for Gesia ecosystem
+
 ## Tech Stack
 
-`Solidity` `Taiko` `Intel SGX` `Express.js` `PostgreSQL` `Hardhat` `Web3.js`
+`Solidity` `Taiko` `Intel SGX` `React Native` `Express.js` `PostgreSQL` `Hardhat` `Web3.js`
