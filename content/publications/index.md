@@ -10,20 +10,37 @@ ShowToc: false
 
 ### 2026
 
-- **Epsilon: A Privacy-Preserving Research Infrastructure with Per-Execution Verification**
-  *Khajiev, N., Varghese, D., Olivier, P.*
-  SysTEX 2026 — 9th Workshop on System Software for Trusted Execution (Tool Paper)
-  *Under review*
+- **Epsilon: A Bring-Your-Own-Data Research Platform with Trusted Verification**
+  *Khajiev, N., Puussaar, A., Soon, L-K., Varghese, D., Lai, E., Olivier, P.*
+  SysTEX 2026 — 9th Workshop on System Software for Trusted Execution (co-located with EuroSys)
+  **Accepted.** ACM Artifact Evaluation: Available, Functional, Reusable.
 
-### In Preparation
+### Under Review / In Preparation
 
-- **How Visual Hierarchy Shapes Data Governance Reasoning in Research Environments**
-  *Khajiev, N., Varghese, D., Olivier, P.*
+- **Per-Execution Attestation Transparency for Trustworthy Data Circulation in Research Environments**
+  IEEE TDSC Special Issue — Trustworthy and Private Decentralized Data Circulation
+  Submission: June 2026
+
+- **Epsilon: Privacy-Preserving Cross-Institutional Data Analysis with Source-Side Encryption and Per-Execution Verification**
+  ACM Middleware 2026 — Experimentation and Deployment Track
+  Submission: June 2026
+
+- **Can LLM Agents Replace Manual Code Review in Trusted Research Environments?**
+  Targeting ICSE 2027
+
+- **Visual Schema Mapping for Data Governance in Research Environments**
   Targeting CHI 2027
 
-- **Expert Evaluation of Integrated Privacy Mechanisms Against the Five Safes Framework**
-  *Khajiev, N., Varghese, D., Olivier, P.*
-  Targeting PoPETs 2027
+---
+
+## Published Packages
+
+| Package | Registry | Description |
+|---------|----------|-------------|
+| [@epsilon-data/nitro-verify](https://www.npmjs.com/package/@epsilon-data/nitro-verify) | npm | Client-side Nitro Enclave attestation verifier |
+| [epsilon-attestation-verifier](https://pypi.org/project/epsilon-attestation-verifier/) | PyPI | Python attestation verification library |
+| [epsilon-sdk](https://pypi.org/project/epsilon-sdk/) | PyPI | Researcher CLI for Epsilon platform |
+| [epsilon-proxy](https://github.com/Epsilon-Data/epsilon-proxy) | GitHub | Source-side encryption proxy (Go) |
 
 ---
 
